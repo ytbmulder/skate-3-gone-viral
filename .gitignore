@@ -1,0 +1,11 @@
+# Ignore everything by default.
+*
+
+# Allow files in the repo root.
+!/.gitattributes
+!/.gitignore
+!/LICENSE
+
+# Allow directories and files.
+!/docs
+!/docs/*.md
