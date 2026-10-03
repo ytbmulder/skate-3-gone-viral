@@ -1,6 +1,6 @@
 # Unlock Gone Viral
 
-This document shows the reverse engineering work done to understand how the Gone Viral trophy in Skate 3 for the PS3 is unlocked.
+Investigate how the Gone Viral trophy unlocks.
 
 ## Trophy Identification
 
